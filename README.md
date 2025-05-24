@@ -5,11 +5,13 @@
 <div align="center">
   <img src="./docs/demo.gif" alt="Demo GIF" width="360"/>
 </div>
+
 ---
+
 <div align="center">
-  <img src="./docs/demo1.jpg" alt="Demo1" width="360"/>
-    <img src="./docs/demo2.jpg" alt="Demo2" width="360"/>
-    <img src="./docs/demo3.jpg" alt="Demo3" width="360"/>
+  <img src="./docs/demo1.jpg" alt="Demo1" width="200"/>
+    <img src="./docs/demo2.jpg" alt="Demo2" width="200"/>
+    <img src="./docs/demo3.jpg" alt="Demo3" width="200"/>
 </div>
 
 ---
