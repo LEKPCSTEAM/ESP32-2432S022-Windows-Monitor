@@ -1,4 +1,4 @@
-# ESP32 System Monitor Dashboard (with LVGL + ST7789)
+# ESP32-2432S022 System Monitor Dashboard (with LVGL + ST7789)
 
 📟 This project displays real-time **CPU, RAM, Disk, Temperature, and GPU usage** from your PC to an ESP32 device with a 2.2-inch ST7789 display using **LVGL** and **LovyanGFX**.
 
@@ -104,7 +104,7 @@ More system info (network, processes)
 Settings page for thresholds or refresh rate
 
 💬 Author
-Developed by: [Your Name]
+Developed by: LEKPCSTEAM
 Date: May 2025
 For ESP32-2432S022 open hardware project 📟
 
